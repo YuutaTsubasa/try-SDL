@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\yuuta\\Documents\\SDL",
+            "binaryPath": "c:\\Users\\yuuta\\Documents\\SDL\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}

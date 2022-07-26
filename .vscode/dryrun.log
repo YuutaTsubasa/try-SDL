@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `/c/Users/yuuta/Documents/SDL'
+g++ main.cpp -IC:\Users\yuuta\Documents\SDL\i686-w64-mingw32\include\SDL2 -LC:\Users\yuuta\Documents\SDL\i686-w64-mingw32\lib -w -Wl,-subsystem,windows -lmingw32 -lSDL2main -lSDL2 -lSDL2_Image -lSDL2_ttf -o main.exe
+make.exe: Leaving directory `/c/Users/yuuta/Documents/SDL'
+ 
